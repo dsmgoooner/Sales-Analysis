@@ -1,1 +1,2 @@
 # Sales-Analysis
+In today's competitive market, understanding sales trends and customer behavior is crucial for making informed business decisions. This project involves a comprehensive analysis of sales data from the year 2019. The dataset includes information about each sale, comprising Order ID, Product, Quantity Ordered, Price Each, Order Date, and Purchase Address. By examining this data, we aim to uncover valuable insights that can help improve sales strategies, optimize inventory management, and enhance customer satisfaction.
